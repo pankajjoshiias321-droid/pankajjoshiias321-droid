@@ -1,6 +1,6 @@
 # Hi, I'm Pankaj Joshi 👋
 
-### Aspiring Full-Stack Developer | JavaScript Learner
+### Aspiring Full-Stack Developer 
 
 I'm passionate about programming and building useful applications. Currently, I'm strengthening my JavaScript fundamentals and working toward becoming a full-stack developer with the MERN stack.
 
@@ -11,27 +11,23 @@ I'm passionate about programming and building useful applications. Currently, I'
 
 ## 🛠️ Technologies & Tools
 
-**Currently learning**
-
+**Currently Learning**
 - JavaScript
 - Git & GitHub
 
-**Exploring for web development**
-
+**Exploring for Web Development**
 - HTML & CSS
 - React.js
 - Node.js & Express.js
 - MongoDB
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-### JavaScript Basics
+### 🎯 Learning Roadmap Generator
 
-A collection of JavaScript practice programs and examples to strengthen my programming fundamentals.
+A project designed to help learners generate a structured learning roadmap and organize their learning journey toward their goals.
 
-🔗 [View Repository](https://github.com/pankajjoshiias321-droid/js-basic)
-
-More projects coming as I continue learning and building.
+🔗 [View Repository](YOUR-LEARNING-ROADMAP-REPOSITORY-LINK)
 
 ## 📈 My Goals
 
@@ -43,7 +39,7 @@ More projects coming as I continue learning and building.
 
 ## 🤝 Connect With Me
 
-- GitHub: [@pankajjoshiias321-droid](https://github.com/pankajjoshiias321-droid)
+- GitHub: [@pankajjoshiias321-droid](https://github.com/pankajjoshiias321-droid/learning-roadmap-generator)
 
 ---
 
