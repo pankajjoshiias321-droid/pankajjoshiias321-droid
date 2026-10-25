@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer 
 
-I'm passionate about programming and building useful applications. Currently, I'm strengthening my JavaScript fundamentals and working toward becoming a full-stack developer with the MERN stack.
+I'm passionate about programming and building useful applications. Working toward becoming a full-stack developer with the MERN stack.
 
-- 🌱 Currently learning JavaScript and web development
+- 🌱 Currently learning about RAG and web development
 - 💻 Practicing programming fundamentals and problem-solving
 - 🎯 Goal: Build practical, real-world web applications
 - 📚 Always learning and improving my coding skills
