@@ -1,6 +1,6 @@
 # Hi, I'm Pankaj Joshi 👋
 
-### Aspiring Full-Stack Developer 
+### Full-Stack Developer 
 
 I'm passionate about programming and building useful applications. Currently, I'm strengthening my JavaScript fundamentals and working toward becoming a full-stack developer with the MERN stack.
 
@@ -13,6 +13,7 @@ I'm passionate about programming and building useful applications. Currently, I'
 
 **Currently Learning**
 - JavaScript
+- RAG
 - Git & GitHub
 
 **Exploring for Web Development**
